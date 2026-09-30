@@ -1,6 +1,6 @@
 # Meizu H1 BLE Tools
 
-![Meizu Band fitness tracker](images/meizu-band.jpg)
+![Meizu Band fitness tracker](images/meizu-band.png)
 
 Small Python utilities for discovering and controlling the Meizu H1 fitness band over Bluetooth Low Energy (BLE). The command interface is based on the text protocol found in the Meizu Band Android app (version 1.0.24).
 
@@ -37,7 +37,3 @@ Replace `<DEVICE_ADDRESS>` with the address shown by `scan`. The band must be ne
 ## Privacy
 
 Do not publish device addresses, serial numbers, personal notification text, or unredacted diagnostic reports. The sample reports in this repository have been anonymized.
-
-## Image credit
-
-Product image: [Meizu Band in use](https://www.techradar.com/news/meizu-band-offers-fitbit-rivaling-features-at-pocket-money-prices).
